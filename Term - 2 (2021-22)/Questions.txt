@@ -1,0 +1,7 @@
+Term -2 Pratical Questions :
+
+1) Interface - Create, Insert and Display (Fetchall method)
+2) Interface - Create, Insert, Update Record and Display (Fetchall\Fetchmany method)
+3) Interface - Create, Insert, Delete and Display (Fetchone\Fetchmany and add rowcount)--Display Deleted records only
+4) Interface - Create, Insert and Display (Fetchall, Fetchmany, Fetchone and rowcount)--Menu Driven Options
+5) Stack Operations : Push,Pop and Display
